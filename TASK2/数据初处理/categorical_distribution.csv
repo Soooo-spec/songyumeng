@@ -1,0 +1,13 @@
+column,value,count,proportion,percentage
+anaemia,0,170,0.568562,56.86
+anaemia,1,129,0.431438,43.14
+diabetes,0,174,0.58194,58.19
+diabetes,1,125,0.41806,41.81
+high_blood_pressure,0,194,0.648829,64.88
+high_blood_pressure,1,105,0.351171,35.12
+sex,0,105,0.351171,35.12
+sex,1,194,0.648829,64.88
+smoking,0,203,0.67893,67.89
+smoking,1,96,0.32107,32.11
+DEATH_EVENT,0,203,0.67893,67.89
+DEATH_EVENT,1,96,0.32107,32.11
