@@ -1,0 +1,9 @@
+﻿新患者,Model,预测死亡概率,预测死亡概率(%)
+患者1,Logistic Regression,0.9801,98.01%
+患者2,Logistic Regression,0.0199,1.99%
+患者1,Random Forest,0.8432,84.32%
+患者2,Random Forest,0.0227,2.27%
+患者1,MLP (加分项),0.9972,99.72%
+患者2,MLP (加分项),0.0,0.00%
+患者1,XGBoost,0.9868,98.68%
+患者2,XGBoost,0.0338,3.38%
